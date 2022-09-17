@@ -1,4 +1,4 @@
-# flutter_application_7
+# A simple Tictactoe game
 
 A new Flutter project.
 
